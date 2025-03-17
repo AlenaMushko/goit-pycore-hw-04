@@ -1,0 +1,4 @@
+colorama==0.4.6
+Faker==37.0.0
+setuptools==76.0.0
+tzdata==2025.1
